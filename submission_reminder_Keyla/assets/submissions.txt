@@ -1,0 +1,11 @@
+student, assignment, submission status
+Chinemerem, Shell Navigation, not submitted
+Chiagoziem, Git, submitted
+Divine, Shell Navigation, not submitted
+Anissa, Shell Basics, submitted
+Keyla, Intro to Linux, submitted
+Sonia, Intro to Linux, not submitted
+Vanessa, Git, not submitted
+Tyllerrr, Shell Navigation, submitted
+Celia, Git Navigation, not submitted
+Regina, Python Intro, submitted
